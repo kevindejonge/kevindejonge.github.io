@@ -16,6 +16,8 @@ html {
   /* 3 */
   background: #ffffff;
   color: #444444;
+  overflow: hidden;
+
 }
 /*
  * Removes default margin.
